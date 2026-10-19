@@ -1,0 +1,77 @@
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Framework</th>
+      <th>Common Uses</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CLEAR</strong></td>
+      <td>
+        <ul>
+          <li>Redefining prompts + AI literacy</li>
+          <li>Prompt improvement</li>
+          <li>Research questions</li>
+          <li>Literature reviews</li>
+          <li>Evaluating AI responses</li>
+        </ul>
+      </td>
+      <td>
+        Example ran on October 19, 2026 via Claude Sonnet 5.5 Chat Free.<br>
+        <a href="https://claude.ai/share/07dede0a-2022-4e80-ac8c-e10b0832c746">View Example</a><br><br>
+        Compare this to the response from Clarity at Yale using Claude Sonnet 5:
+        <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:42348b56-950d-4f13-ba8c-d3dd15e73b41">PDF</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>PRIME</strong></td>
+      <td>
+        <ul>
+          <li>Structured, goal-oriented tasks</li>
+          <li>Research project planning</li>
+          <li>Workflows and SOPs</li>
+          <li>Training materials</li>
+          <li>Technical documentation</li>
+        </ul>
+      </td>
+      <td>
+        Example ran on October 13, 2026 via ChatGPT-6 Free.<br>
+        <a href="https://chatgpt.com/share/6ace94a7-8cec-83ea-ac65-e81880561508">View Example</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>ROSES</strong></td>
+      <td>
+        <ul>
+          <li>Expert, audience-specific outputs</li>
+          <li>Clinical education</li>
+          <li>Grant proposals</li>
+          <li>Policy documents</li>
+          <li>Specialized writing</li>
+        </ul>
+      </td>
+      <td>
+        Example ran on October 13, 2026 via ChatGPT-6 Free.<br>
+        <a href="https://chatgpt.com/share/6ace8b7f-ece4-83ea-9e9e-e4056dcbd5e1">View Example</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Clarity's Framework</strong></td>
+      <td>
+        <ul>
+          <li>Everyday tasks</li>
+          <li>Emails</li>
+          <li>Summaries</li>
+          <li>Brainstorming</li>
+          <li>Teaching materials</li>
+        </ul>
+      </td>
+      <td>
+        Example ran on October 13, 2026 via Clarity at Yale using Gemini 3.7 Flash.<br>
+        <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:061558d2-1110-4baa-8820-54ce287a119b">PDF</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
