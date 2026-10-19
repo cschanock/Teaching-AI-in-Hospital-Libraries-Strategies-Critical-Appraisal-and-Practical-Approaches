@@ -1,0 +1,70 @@
+<table align="left" class="table table-bordered" style="border: 1px solid rgb(221, 221, 221);">
+	<tbody>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>Name of framework</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>Best suited for</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>Specific tasks</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>Examples in different AI tools</strong></td>
+		</tr>
+		<tr>
+			<td class="ck_border" rowspan="2" style="border: 1px solid rgb(221, 221, 221);">CLEAR</td>
+			<td class="ck_border" rowspan="2" style="border: 1px solid rgb(221, 221, 221);">Redefining prompts + AI literacy</td>
+			<td class="ck_border" rowspan="2" style="border: 1px solid rgb(221, 221, 221);">
+			<ul>
+				<li>Prompt improvement</li>
+				<li>Research questions</li>
+				<li>Literature reviews</li>
+				<li>Evaluating AI responses</li>
+			</ul>
+			</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">Example ran on October 19, 2026 via Claude Sonnet 5.5 Chat Free.<br />
+			<a href="https://claude.ai/share/07dede0a-2022-4e80-ac8c-e10b0832c746">Claude Example</a></td>
+		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">Compare to the response from Clarity at Yale using Claude Sonnet 5:<br />
+			<a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:42348b56-950d-4f13-ba8c-d3dd15e73b41">Clarity PDF Example</a></td>
+		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">PRIME</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">Structured, goal-oriented tasks</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">
+			<ul>
+				<li>Research project planning</li>
+				<li>Workflows and SOPs</li>
+				<li>Training materials</li>
+				<li>Technical documentation</li>
+			</ul>
+			</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221); text-align: left; vertical-align: middle;">Example ran on October 13, 2026 via ChatGPT-6 Free.<br />
+			<a href="https://chatgpt.com/share/6ace94a7-8cec-83ea-ac65-e81880561508">ChatGPT Example</a></td>
+		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">ROSES</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">Expert, audience-specific outputs</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">
+			<ul>
+				<li>Clinical education</li>
+				<li>Grant proposals</li>
+				<li>Policy documents</li>
+				<li>Specialized writing</li>
+			</ul>
+			</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221); text-align: left; vertical-align: middle;">Example ran on October 13, 2026 via ChatGPT-6 Free.<br />
+			<a href="https://chatgpt.com/share/6ace8b7f-ece4-83ea-9e9e-e4056dcbd5e1">ChatGPT Example</a></td>
+		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">Clarity&#39;s Framework</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">Everyday tasks</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);">
+			<ul>
+				<li>Emails</li>
+				<li>Summaries</li>
+				<li>Brainstorming</li>
+				<li>Teaching materials</li>
+			</ul>
+			</td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221); text-align: left; vertical-align: middle;">Example ran on October 13, 2026 via Clarity at Yale using Gemini 3.7 Flash.<br />
+			<a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:061558d2-1110-4baa-8820-54ce287a119b">Clarity PDF Example</a></td>
+		</tr>
+	</tbody>
+</table>
